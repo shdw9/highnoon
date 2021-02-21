@@ -48,9 +48,10 @@ def collect(username, password):
 		x_button = driver.find_element_by_xpath('/html/body/div/div[3]/div/div[3]/div')
 		x_button.click()
 		print(username + " - Logged out!")
-	time.sleep(1) #seconds to loop each logout
+	time.sleep(300) #seconds to loop each logout, 300s = 5minutes
 
 i = 0;
 
 while i <= 10:
 	collect("USERNAME", "PASSWORD")
+	#collect("USERNAME2", "PASSWORD2")
