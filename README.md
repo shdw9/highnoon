@@ -4,4 +4,4 @@ highnoon is a playfull.com points auto collector. This program will allow you to
 
 ## Installation & Usage
 
-To run this bot, you'll have to install Python 3.9.x. Then run ```pip install selenium``` and edit the login.py file and edit your username and password at the bottom of the code. Then simply run login.py. You can have this run multiple playfull accounts as well.
+To run this bot, you'll have to install ```Python 3.9.x```. Then run ```pip install selenium``` and edit the login.py file and edit your username and password at the bottom of the code. Then simply run login.py. You can have this run multiple playfull accounts as well.
