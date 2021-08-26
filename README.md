@@ -3,6 +3,7 @@
 # highnoon
 
 highnoon is a playfull.com points auto collector. This program will allow you to automatically collect your points every 5 minutes. This is useful when you're running a bot to play LoL games and this will allow you to profit even more.
+<br>UPDATE: Playfull got updated and you no longer need this since they added a feature that'll automatically collect for you.
 
 ## Features
 
